@@ -12,10 +12,9 @@ class MainNav extends React.Component {
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ml-auto">
                             <Nav.Link href="/aboutUs">About Us</Nav.Link>
-                            <Nav.Link href="/constitution">Constitution</Nav.Link>
                             <Nav.Link href="/sponsors">Sponsors</Nav.Link>
-                            <Nav.Link href="/contacts">Contacts</Nav.Link>
-                            <Nav.Link href="/national">MAES National</Nav.Link>
+                            <Nav.Link href="/contact">Contact</Nav.Link>
+                            <Nav.Link href="http://mymaes.org/">MAES National</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Navbar>

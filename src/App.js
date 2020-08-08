@@ -10,6 +10,9 @@ import './App.css';
 import MainNav from "./components/navbar";
 import Footer from "./components/footer";
 import Home from "./pages/home/home";
+import AboutUs from "./pages/aboutUs/aboutUs";
+import Contact from "./pages/contact/contact";
+import Sponsors from "./pages/sponsors/sponsors";
 
 
 function App() {
@@ -26,19 +29,13 @@ function App() {
                     <Home/>
                 </Route>
                 <Route path="/aboutUs">
-                    <> about us </>
-                </Route>
-                <Route path="/constitution">
-                    <> constitution </>
+                    <AboutUs/>
                 </Route>
                 <Route path="/sponsors">
-                    <> sponsors </>
+                    <Sponsors/>
                 </Route>
-                <Route path="/contacts">
-                    <> contacts</>
-                </Route>
-                <Route path="/national">
-                    <> national </>
+                <Route path="/contact">
+                    <Contact/>
                 </Route>
             </Switch>
         </Router><Footer/>

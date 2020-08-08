@@ -6,13 +6,13 @@ function Home() {
 
   return (
       <div className={'home'}>
-          <img className={'logo'} src={'https://mymaes.org/wp-content/uploads/2017/04/maes-logo-2012-with-tagline.jpg'}/>
+          <img className={'logo'} alt={"MAES Logo"} src={'https://mymaes.org/wp-content/uploads/2017/04/maes-logo-2012-with-tagline.jpg'}/>
           <h1 className={'header'}>Welcome to the MIT Chapter of MAES!</h1>
           <p>MAES at MIT is a tight-knit community that focuses on the professional development of its individual members, offering them resources and opportunities for success.</p>
           <p>Becoming a member is simple: Join us every other Friday in the Latino Cultural Center at 5:45pm. Check out our Facebook Page for the details.</p>
           <div>
               <Button variant="success" href={'/aboutUs'}>About Us</Button>{'  '}
-              <Button variant="primary">Facebook Page</Button>
+              <Button variant="primary" href = {"https://www.facebook.com/MITMaes/"}>Facebook Page</Button>
           </div>
           <h1 className={'header'}>Professional Development </h1>
           <p>MIT MAES is able to foster the professional development of its members through:</p>

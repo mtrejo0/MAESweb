@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Moises Trejo",
+    "position": "President",
+    "img": "https://drive.google.com/uc?id=1YcJhfmqzRzqpFqQu74p2jQVVUfAebOIN",
+    "link": "https://www.linkedin.com/in/moises-t-89228b13b",
+    "email": "moisest@mit.edu",
+    "year": 2022,
+    "course": "Computer Science"
+  },
+  {
+    "name": "Juan Diaz",
+    "position": "VP of External Relations",
+    "img": "https://drive.google.com/uc?id=11A2g-99MQ8eF6-hH-xKtOQEs-8RROlC2",
+    "link": "https://www.linkedin.com/in/juan-diaz-bb65521aa",
+    "email": "juandiaz@mit.edu",
+    "year": 2023,
+    "course": "Computer Science"
+  },
+  {
+    "name": "Marvin Zetina-Jimenez",
+    "position": "VP of Educational Outreach",
+    "img": "https://drive.google.com/uc?id=19BaW7eJ9NEcVsdgWSU5x-opPUghhf1dG",
+    "link": "https://www.linkedin.com/in/marvin-zetina-jimenez-8893851ab",
+    "email": "mzetina@mit.edu",
+    "year": 2023,
+    "course": "Computer Science"
+  },
+  {
+    "name": "Guillermo Vasquez",
+    "position": "VP of Internal Relations",
+    "img": "https://drive.google.com/uc?id=19gnvpw0nTwDMTAYMzzRgvDYuqKulINUz",
+    "link": "https://www.linkedin.com/in/gvasq",
+    "email": "gvasquez@mit.edu",
+    "year": 2023,
+    "course": "Computer Science"
+  },
+  {
+    "name": "Leonardo Zamora",
+    "position": "Treasurer",
+    "img": "https://drive.google.com/uc?id=1NQkJQG3Ea0KLRvEwMZHxCMQMnc38UYNe",
+    "link": "https://www.linkedin.com/in/leonardo-zamora-01b1ab1a2",
+    "email": "lzamora@mit.edu",
+    "year": 2023,
+    "course": "Mechanical Engineering"
+  },
+  {
+    "name": "Jesus Lares",
+    "position": "Secretary",
+    "img": "https://drive.google.com/uc?id=11-yUIe9Z7qb5Tls15tRO98j6vpZpAxzD",
+    "link": "https://www.linkedin.com/in/jesus-lares",
+    "email": "jelares@mit.edu",
+    "year": 2022,
+    "course": "Computer Science"
+  },
+  {
+    "name": "Jesus Rodriguez",
+    "position": "VP of Market Affairs",
+    "img": "https://drive.google.com/uc?id=1FVB87wRYOhkPafP0FezYgvXdQpGf5v1A",
+    "link": "https://www.linkedin.com/in/jesus-lares",
+    "email": "tbd@mit.edu",
+    "year": 2023,
+    "course": "Computer Science"
+  }
+]
