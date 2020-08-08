@@ -15,7 +15,7 @@ class MainNav extends React.Component {
                             <Nav.Link href="/constitution">Constitution</Nav.Link>
                             <Nav.Link href="/sponsors">Sponsors</Nav.Link>
                             <Nav.Link href="/contacts">Contacts</Nav.Link>
-                            <Nav.Link href="/national">MAES National</Nav.Link>
+                            <Nav.Link href="https://mymaes.org/" target="_blank">MAES National</Nav.Link> {/* do we want it to link to national site? -Memo */}
                         </Nav>
                     </Navbar.Collapse>
                 </Navbar>
