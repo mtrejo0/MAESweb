@@ -11,7 +11,7 @@ function Contact() {
           <p>84 Massachusetts Ave Cambridge, MA 02139</p>
           <div>
               <Button variant="success" href = {"mailto: maes-request@mit.edu"}>Email</Button>{'  '}
-              <Button variant="primary" href = {"https://www.facebook.com/MITMaes/"}>Facebook Page</Button>
+              <Button variant="primary" href='https://www.facebook.com/maes.national/' target="_blank">Facebook Page</Button>
           </div>
       </div>
   );
