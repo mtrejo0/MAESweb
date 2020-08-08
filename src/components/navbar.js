@@ -13,8 +13,8 @@ class MainNav extends React.Component {
                         <Nav className="ml-auto">
                             <Nav.Link href="/aboutUs">About Us</Nav.Link>
                             <Nav.Link href="/sponsors">Sponsors</Nav.Link>
-                            <Nav.Link href="/contact">Contact</Nav.Link>
-                            <Nav.Link href="http://mymaes.org/">MAES National</Nav.Link>
+                            <Nav.Link href="/contacts">Contacts</Nav.Link>
+                            <Nav.Link href="https://mymaes.org/" target="_blank">MAES National</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Navbar>
