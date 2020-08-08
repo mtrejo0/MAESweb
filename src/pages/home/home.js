@@ -11,7 +11,7 @@ function Home() {
           <p>MAES at MIT is a tight-knit community that focuses on the professional development of its individual members, offering them resources and opportunities for success.</p>
           <p>Becoming a member is simple: Join us every other Friday in the Latino Cultural Center at 5:45pm. Check out our Facebook Page for the details.</p>
           <div>
-              <Button variant="success" href={'/aboutUs'}>About Us</Button>{'  '}
+              <Button variant="success" href={'#aboutUs'}>About Us</Button>{'  '}
               <Button variant="primary" href='https://www.facebook.com/maes.national/' target="_blank">Facebook Page</Button>
           </div>
           <h1 className={'header'}>Professional Development </h1>
