@@ -17,7 +17,6 @@ function AboutUs() {
               <div className={'spacing'}></div>
               <h2>Vision</h2>
               <h5>MAES is a prominent Latino professional development and STEM outreach organization recognized for its programming and membership.</h5>
-
               <div className={'execBoardTitle'}>
                   <h1>Exec Board</h1>
               </div>
