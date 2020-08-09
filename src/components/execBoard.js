@@ -23,7 +23,7 @@ let images = {
 }
 
 class ExecBoard extends React.Component {
-
+//refer to the exec.json that contains exec member info
     render() {
         return(
             <div>
