@@ -7,9 +7,9 @@ function Contact() {
   return (
       <div className={'contact'}>
           <h1>Contact Us!</h1>
-          <p>MAES welcomes any opportunity that can help further the careers of our engineers. If you are a company/organization that has infromation our members can benefit from please feel free to reach out! </p>
-          <p>84 Massachusetts Ave Cambridge, MA 02139</p>
-          <div>
+          <h5>MAES welcomes any opportunity that can help further the careers of our engineers. If you are a company/organization that has infromation our members can benefit from please feel free to reach out! </h5>
+          <h5>84 Massachusetts Ave Cambridge, MA 02139</h5>
+          <div className={'button'}>
               <Button variant="success" href = {"mailto: maes-request@mit.edu"}>Email</Button>{'  '}
               <Button variant="primary" href='https://www.facebook.com/maes.national/' target="_blank">Facebook Page</Button>
           </div>
