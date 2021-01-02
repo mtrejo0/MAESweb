@@ -9,7 +9,6 @@ import juan from '../assets/juan.jpg'
 import guillermo from '../assets/guillermo.jpg'
 import marvin from '../assets/marvin.jpg'
 import leonardo from '../assets/leonardo.jpg'
-import jesusL from '../assets/jesus.jpg'
 import jesusR from '../assets/jesusRod.jpg'
 
 let images = {
@@ -18,7 +17,6 @@ let images = {
     'guillermo': guillermo,
     "marvin": marvin,
     'leonardo': leonardo,
-    'jesusL' : jesusL,
     'jesusR' : jesusR
 }
 
