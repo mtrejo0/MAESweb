@@ -17,12 +17,12 @@ let sponsors = [
     },
     {
         "name":"Bloomberg",
-        'img':"https://1000logos.net/wp-content/uploads/2017/08/Bloomberg-Logo-768x230.png",
+        'img':"https://1000logos.net/wp-content/uploads/2017/08/Bloomberg-logo.png",
         "apply": "https://www.bloomberg.com/company/early-career/"
     },
     {
         "name":"Google",
-        'img':"https://1000logos.net/wp-content/uploads/2016/11/Google-Logo.png",
+        'img':"https://1000logos.net/wp-content/uploads/2016/11/google-logo.png",
         "apply": "https://careers.google.com/students/"
     },
     {
@@ -37,7 +37,7 @@ let sponsors = [
     },
     {
         "name":"Facebook",
-        'img':"https://1000logos.net/wp-content/uploads/2016/11/Facebook-Logo-768x768.png",
+        'img':"https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.png",
         "apply": "https://www.facebook.com/careers/students-and-grads/?p[teams][0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&p[teams][1]=Internship%20-%20Business&p[teams][2]=Internship%20-%20PhD&p[teams][3]=University%20Grad%20-%20PhD%20%26%20Postdoc&p[teams][4]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&p[teams][5]=University%20Grad%20-%20Business&teams[0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams[1]=Internship%20-%20Business&teams[2]=Internship%20-%20PhD&teams[3]=University%20Grad%20-%20PhD%20%26%20Postdoc&teams[4]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&teams[5]=University%20Grad%20-%20Business"
     },
 ]
