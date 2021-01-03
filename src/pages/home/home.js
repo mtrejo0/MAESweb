@@ -9,7 +9,7 @@ function Home() {
       <div className={'home'}>
           <img className={'logo'} alt={"MAES Logo"} src={logo}/>
           <h1 className={'header'}>Welcome to the MIT Chapter of MAES!</h1>
-          <h5>MAES at MIT is a tight-knit community that focuses on the professional development of its individual members, offering them resources and opportunities for success.</h5>
+          <h5>MAES at MIT is a tight-knit community that focuses on the professional development of its individual members, offering them resources and opportunities for success</h5>
           <h5>Becoming a member is simple pleas sign up for our mailing list with your @mit.edu email!</h5>
           <div className={'button'}>
               <Button variant="success" href={'https://forms.gle/LyVbRRHkK99kW3UK8'}>Sign Up</Button>{'  '}
