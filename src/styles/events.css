@@ -5,3 +5,10 @@
     flex-direction: column;
     margin-top: 64px;
 }
+
+
+@media all and (max-width: 768px) {
+    iframe {
+        width: 100%;
+    }
+}

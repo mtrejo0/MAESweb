@@ -11,7 +11,6 @@ export default class About extends Component {
 			<div className="center">
 				<img src={logo} className="logo" alt="MAES LOGO"></img>
 			</div>
-			
 			<div className="section">
 				<h3>Welcome to the MIT Chapter of MAES!</h3>
 				<p>Latinos in Science and Engineering is the second largest Engineering and Professional development club at MIT. 

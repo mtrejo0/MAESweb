@@ -1,17 +1,5 @@
-.exec-2019 {
-    /* The image used */
-    background-image: url("../images/exec_2019.jpeg");
-
-    /* Set a specific height */
-    min-height: 500px;
-
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 .center {
-    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -21,42 +9,11 @@
     height: 500px;
 }
 
-.conference-1 {
-    /* The image used */
-    background-image: url("../images/conference_2019_1.jpg");
-
-    /* Set a specific height */
-    min-height: 500px;
-
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+@media all and (max-width: 768px) {
+    .logo {
+        height: 200px;
+    }
 }
-
-.conference-2 {
-    /* The image used */
-    background-image: url("../images/conference_2019_2.jpg");
-
-    /* Set a specific height */
-    min-height: 500px;
-
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.retreat-2019 {
-    /* The image used */
-    background-image: url("../images/retreat_2019.jpg");
-
-    /* Set a specific height */
-    min-height: 600px;
-
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 
 .section {
     color: rgb(0, 0, 0);
