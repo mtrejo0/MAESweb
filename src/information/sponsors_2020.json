@@ -1,0 +1,43 @@
+{
+	"information": [
+
+		{
+			"name": "Bloomberg",
+			"img": "bloomberg",
+			"link": "https://careers.bloomberg.com/login"
+		},
+		{
+			"name": "Google",
+			"img": "google",
+			"link": "https://careers.google.com/jobs/"
+		},
+		{
+			"name": "Capital One",
+			"img": "capitalone",
+			"link": "https://www.capitalonecareers.com/"
+		},
+		{
+			"name": "Facebook",
+			"img": "facebook",
+			"link": "https://www.facebook.com/careers/"
+		},
+		{
+			"name": "JPL",
+			"img": "jpl",
+			"link": "https://jpl.jobs/"
+		},
+		{
+			"name": "Goldman Sachs",
+			"img": "goldman",
+			"link": "https://www.goldmansachs.com/careers/"
+		},
+		{
+			"name": "Northrup Grumman",
+			"img": "northrup",
+			"link": "https://www.facebook.com/careers/"
+		}
+
+		
+
+	]
+}

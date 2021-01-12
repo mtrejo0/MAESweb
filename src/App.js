@@ -1,30 +1,12 @@
 import React from 'react';
+import Header from './components/header';
+import Main from './containers/Main';
 
-import './App.css';
-import MainNav from "./components/navbar";
-import Footer from "./components/footer";
-import Home from "./pages/home/home";
-import AboutUs from "./pages/aboutUs/aboutUs";
-import Contact from "./pages/contact/contact";
-import Sponsors from "./pages/sponsors/sponsors";
-
-
-function App() {
-
-  return (
-      <div>
-          <MainNav/>
-          <div id={"home"}></div>
-          <Home />
-          <div id={"aboutUs"}></div>
-          <AboutUs/>
-          <div id={"sponsors"}></div>
-          <Sponsors/>
-          <div id={"contact"}></div>
-          <Contact/>
-          <Footer/>
-      </div>
-  );
-}
+const App = () => (
+	<div style={{display: "flex", alignItems: "center", justifyContent: "center", flexDirection: "column"}}>
+		<Header />
+		<Main />
+	</div>
+)
 
 export default App;
