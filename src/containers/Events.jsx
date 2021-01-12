@@ -14,6 +14,7 @@ class Events extends Component {
 	render() {
 		return (
 			<div className="events">
+				<h1>Upcoming Events</h1>
 				<iframe
 					src="https://calendar.google.com/calendar/embed?src=latinoculturalcenter%40gmail.com&ctz=America%2FNewYork"
 					style={{border: 0, boxShadow: '0 0 16px #aaa', borderRadius: '32px', padding: '24px', marginBottom: "100px"}} width="800" height="600" frameBorder="0" scrolling="no"/>

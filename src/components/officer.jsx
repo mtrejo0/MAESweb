@@ -29,8 +29,8 @@ export default class MainPanel extends Component {
                     <h1>{info.name}</h1>
                     <h3>{info.position} | {info.year}</h3>
                     <ul>
-                        <p><a href={"mailto:"+info.email}>Email</a></p>
-                        <p><a href={info.link}>LinkedIn</a></p>
+                        <li><a target="_blank" href={"mailto:"+info.email}>Email</a></li>
+                        <li><a target="_blank" href={info.link}>LinkedIn</a></li>
                     </ul>
                     
                     
