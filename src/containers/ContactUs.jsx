@@ -11,6 +11,9 @@ export default class Header extends Component {
 
                 <p><a href="https://forms.gle/LyVbRRHkK99kW3UK8" target="_blank" rel="noopener noreferrer">Sign Up</a> for our mailing list with your mit.edu email! </p>
 				<p>Like our <a href="https://www.facebook.com/maesatmit" target="_blank" rel="noopener noreferrer">Facebook Page</a> for updates! </p>
+                <p>Follow us on <a href="https://www.instagram.com/maes_mit" target="_blank" rel="noopener noreferrer">Instagram!</a></p>
+                
+
                 <p>Send us an email! <a href="mailto:maes-exec@mit.edu" target="_blank" rel="noopener noreferrer">maes-exec@mit.edu</a> </p>
 
             </div>

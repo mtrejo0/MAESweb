@@ -1,0 +1,57 @@
+[
+	{
+	  "name": "Moises Trejo",
+	  "position": "President",
+	  "img": "moi",
+	  "link": "https://www.linkedin.com/in/moises-t-89228b13b",
+	  "email": "moisest@mit.edu",
+	  "year": 2022,
+	  "course": "Computer Science",
+	  "web": "google.com"
+	},
+	{
+	  "name": "Juan Diaz",
+	  "position": "VP of External Relations",
+	  "img": "juan",
+	  "link": "https://www.linkedin.com/in/juan-diaz-bb65521aa",
+	  "email": "juandiaz@mit.edu",
+	  "year": 2023,
+	  "course": "Computer Science"
+	},
+	{
+	  "name": "Marvin Zetina-Jimenez",
+	  "position": "VP of Educational Outreach",
+	  "img": "marvin",
+	  "link": "https://www.linkedin.com/in/marvin-zetina-jimenez-8893851ab",
+	  "email": "mzetina@mit.edu",
+	  "year": 2023,
+	  "course": "Computer Science"
+	},
+	{
+	  "name": "Guillermo Vasquez",
+	  "position": "VP of Internal Relations",
+	  "img": "guillermo",
+	  "link": "https://www.linkedin.com/in/gvasq",
+	  "email": "gvasquez@mit.edu",
+	  "year": 2023,
+	  "course": "Computer Science"
+	},
+	{
+	  "name": "Leonardo Zamora",
+	  "position": "Treasurer",
+	  "img": "leonardo",
+	  "link": "https://www.linkedin.com/in/leonardo-zamora-01b1ab1a2",
+	  "email": "lzamora@mit.edu",
+	  "year": 2023,
+	  "course": "Mechanical Engineering"
+	},
+	{
+	  "name": "Jesus Rodriguez",
+	  "position": "VP of Market Affairs",
+	  "img": "jesusRod",
+	  "link": "https://www.linkedin.com/in/jesus-lares",
+	  "email": "jesusr@mit.edu",
+	  "year": 2023,
+	  "course": "Mechanical Engineering"
+	}
+  ]
