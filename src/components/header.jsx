@@ -21,8 +21,9 @@ const Header = () => (
             <li><NavLink to='/events' activeStyle={active} >Events</NavLink></li>
             <li><NavLink to='/sponsors' activeStyle={active} >Sponsors</NavLink></li>
             <li><NavLink to='/contact' activeStyle={active} >Contact Us</NavLink></li>
-            <li><NavLink to='/donate' activeStyle={active} >Donate</NavLink></li>
+            <li><a href='https://giving.mit.edu/form?fundId=2720176' target="_blank">Donate</a></li>
             <li><a href='https://mymaes.org/' target="_blank">MAES National</a></li>
+            
         </ul>
     </div>
 )
