@@ -48,8 +48,17 @@
 	  "name": "Jesus Rodriguez",
 	  "position": "VP of Market Affairs",
 	  "img": "jesusRod",
-	  "link": "https://www.linkedin.com/in/jesus-lares",
+	  "link": "https://www.linkedin.com/in/jesus-rodriguez-10b9591a9",
 	  "email": "jesusr@mit.edu",
+	  "year": 2023,
+	  "course": "Mechanical Engineering"
+	},
+	{
+	  "name": "Sandra ",
+	  "position": "VP of Social Affairs",
+	  "img": "sandra",
+	  "link": "https://www.linkedin.com/in/sandra-villagrana/",
+	  "email": "sandrajv@mit.edu",
 	  "year": 2023,
 	  "course": "Mechanical Engineering"
 	}
