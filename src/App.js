@@ -25,6 +25,7 @@ const App = () => (
 		<Route path = '/exec' component = {Exec}/> 
 		<Route path = '/contact' component = {ContactUs}/> 
 		<Route path = '/events' component = {Events}/> 
+		<Route path = '/zoom' component = {() => window.location.href = 'https://mit.zoom.us/j/92503975923'}/> 
 	</div>
 )
 
